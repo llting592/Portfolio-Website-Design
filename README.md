@@ -42,3 +42,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ![ScreenShot](https://github.com/llting592/Portfolio-Website-Design/blob/main/assets/images/02-advanced-css-homework-demo.gif) 
 
+## Other
+All icons and stock photos pulled from:
+![Link to Icons](https://icons8.com/)
+![Link to Photos](https://www.pexels.com/)
