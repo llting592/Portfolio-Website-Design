@@ -45,7 +45,7 @@ nav ul li{
 }
 
 .hero-image{
-    width: 70%;
+    width: 65%;
     
 }
 
@@ -64,6 +64,14 @@ nav ul li{
     font-weight: bolder;
 }
 
+.work-header{
+  text-align: center;
+  display: grid;
+  padding: 10px;
+  color: white;
+  font-size: xx-large;
+  text-decoration: underline;
+}
 
 .work-list{
 text-align: center;
